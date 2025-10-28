@@ -4,32 +4,45 @@
   "sectionTitle": "Skills & Technologies",
   "categories": [
     {
-      "_instructions": "Example category - customize as needed",
-      "category": "Category Name (e.g., Programming Languages)",
+      "category": "Programming Languages",
       "icon": "fas fa-code",
       "skills": [
-        "Skill 1",
-        "Skill 2",
-        "Skill 3",
-        "Add as many as needed"
+        "SQL (MySQL, PostgreSQL, MS SQL Server, Oracle, Snowflake)",
+        "Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)",
+        "R (ggplot2, dplyr, caret)",
+        "Advanced Excel (VBA, Macros, Power Query)"
       ]
     },
     {
-      "category": "Frameworks & Tools",
-      "icon": "fas fa-toolbox",
+      "category": "Tools & Platforms",
+      "icon": "fas fa-wrench",
       "skills": [
-        "Framework 1",
-        "Framework 2",
-        "Tool 1"
+        "Tableau",
+        "Power BI",
+        "Looker",
+        "QlikView",
+        "Google Data Studio",
+        "Airflow",
+        "Talend",
+        "Alteryx",
+        "SSIS",
+        "dbt",
+        "Apache NiFi",
+        "AWS (Redshift, S3, Glue, Lambda)",
+        "Google Cloud (BigQuery)",
+        "Azure (Synapse, Data Factory)",
+        "Apache Spark",
+        "Hadoop",
+        "Kafka"
       ]
     },
     {
-      "category": "Soft Skills",
-      "icon": "fas fa-users",
+      "category": "Technical Skills",
+      "icon": "fas fa-laptop-code",
       "skills": [
-        "Leadership",
-        "Communication",
-        "Problem Solving"
+        "Financial Modeling",
+        "Risk Analytics",
+        "Fraud Detection"
       ]
     }
   ]

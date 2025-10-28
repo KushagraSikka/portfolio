@@ -3,29 +3,46 @@
   "sectionTitle": "Professional Experience",
   "experiences": [
     {
-      "_instructions": "Example job entry - replace with your actual experience",
-      "title": "Job Title",
-      "company": "Company Name",
-      "period": "Start Date - End Date (e.g., Jan 2020 - Present)",
-      "location": "City, State/Country",
-      "description": "Brief 1-2 sentence description of your role and impact.",
+      "title": "Data Analyst",
+      "company": "Allstate Corporation",
+      "period": "Feb 2025 Present",
+      "location": "Dallas, TX",
+      "description": "• Spearheaded fraud detection initiative analyzing 100K+ monthly transactions, implementing ML algorithms (logistic regression, ensemble methods) that reduced false positives by 20% and saved $2M annually in fraudulent claims\n• Automated critical data pipelines using SQL, Python, and AWS Lambda, reducing data processing time from 4 hours to 30 minutes (87.5% improvement) and enabling real-time decision-making for operations team\n• Architected 5+ executive Tableau dashboards tracking KPIs for 10+ stakeholders, improving operational transparency by 40%\n• Led premium optimization project through A/B testing on pricing models, generating $500K revenue increase within 3 months while improving customer satisfaction scores by 15%\n• Established data quality framework conducting root cause analysis that resolved 95% of data inconsistencies, ensuring 99.9% data accuracy across 1M+ customer records",
       "responsibilities": [
-        "Key achievement or responsibility with metrics (e.g., Increased sales by 25%)",
-        "Another achievement showing impact",
-        "Technical or leadership contribution",
-        "Add as many as needed (3-8 recommended)"
+        "• Spearheaded fraud detection initiative analyzing 100K+ monthly transactions, implementing ML algorithms (logistic regression, ensemble methods) that reduced false positives by 20% and saved $2M annually in fraudulent claims",
+        "• Automated critical data pipelines using SQL, Python, and AWS Lambda, reducing data processing time from 4 hours to 30 minutes (87",
+        "5% improvement) and enabling real-time decision-making for operations team",
+        "• Architected 5+ executive Tableau dashboards tracking KPIs for 10+ stakeholders, improving operational transparency by 40%",
+        "• Led premium optimization project through A/B testing on pricing models, generating $500K revenue increase within 3 months while improving customer satisfaction scores by 15%",
+        "• Established data quality framework conducting root cause analysis that resolved 95% of data inconsistencies, ensuring 99",
+        "9% data accuracy across 1M+ customer records"
       ]
     },
     {
-      "title": "Previous Job Title",
-      "company": "Previous Company",
-      "period": "Month Year - Month Year",
-      "location": "City, State",
-      "description": "What you did in this role.",
+      "title": "Data Analyst Intern",
+      "company": "Allstate Corporation",
+      "period": "Jul 2024 Dec 2024",
+      "location": "Dallas, TX",
+      "description": "• Analyzed 1M+ policyholder records using advanced SQL (window functions, CTEs) and Python (Pandas, NumPy), identifying high-value customer segments that drove 25% premium revenue growth ($300K+) in Q4 2024\n• Developed interactive Tableau dashboards visualizing claims frequency and policy metrics, reducing report delivery time by 50% and enabling self-service analytics for 15+ business users\n• Engineered automated ETL pipeline using Airflow and dbt, eliminating 70% of manual data preparation tasks and saving 20 hours weekly in operational overhead\n• Optimized customer retention through A/B testing on personalized email campaigns, achieving 12% increase in renewal rates and generating $300K additional revenue",
       "responsibilities": [
-        "Achievement with quantifiable results",
-        "Key project or initiative you led",
-        "Technologies or methodologies used"
+        "• Analyzed 1M+ policyholder records using advanced SQL (window functions, CTEs) and Python (Pandas, NumPy), identifying high-value customer segments that drove 25% premium revenue growth ($300K+) in Q4 2024",
+        "• Developed interactive Tableau dashboards visualizing claims frequency and policy metrics, reducing report delivery time by 50% and enabling self-service analytics for 15+ business users",
+        "• Engineered automated ETL pipeline using Airflow and dbt, eliminating 70% of manual data preparation tasks and saving 20 hours weekly in operational overhead",
+        "• Optimized customer retention through A/B testing on personalized email campaigns, achieving 12% increase in renewal rates and generating $300K additional revenue"
+      ]
+    },
+    {
+      "title": "Data Analyst",
+      "company": "Macro Software Solutions",
+      "period": "Jan 2021- Dec 2022",
+      "location": "Hyderabad, India",
+      "description": "• Optimized big data operations by refining SQL queries for 3M+ records in Snowflake using clustering keys and indexing, achieving 50% reduction in dashboard load times\n• Built predictive churn models using logistic regression and decision trees with 85% accuracy, increasing customer retention by 25% and saving $200K annually in acquisition costs\n• Created 10+ Power BI dashboards integrating AWS Redshift and Snowflake data, improving real-time business monitoring and reporting accuracy by 40%\n• Automated ETL pipelines with Apache NiFi and AWS Glue, reducing processing time from 4 hours to 30 minutes (80% improve- ment)\n• Drove $500K revenue growth (15% increase) through customer behavior analysis, identifying cross-sell and upsell opportunities across 500K+ customer base",
+      "responsibilities": [
+        "• Optimized big data operations by refining SQL queries for 3M+ records in Snowflake using clustering keys and indexing, achieving 50% reduction in dashboard load times",
+        "• Built predictive churn models using logistic regression and decision trees with 85% accuracy, increasing customer retention by 25% and saving $200K annually in acquisition costs",
+        "• Created 10+ Power BI dashboards integrating AWS Redshift and Snowflake data, improving real-time business monitoring and reporting accuracy by 40%",
+        "• Automated ETL pipelines with Apache NiFi and AWS Glue, reducing processing time from 4 hours to 30 minutes (80% improve- ment)",
+        "• Drove $500K revenue growth (15% increase) through customer behavior analysis, identifying cross-sell and upsell opportunities across 500K+ customer base"
       ]
     }
   ]
